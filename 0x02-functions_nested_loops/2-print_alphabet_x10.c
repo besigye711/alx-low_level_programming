@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
-*main -alphabet
-*print_alphabet_x10 - print a - z ten times
+* print_alphabet -make the alphabet
+* Return: void
 */
 void print_alphabet_x10(void)
 {
